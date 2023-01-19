@@ -1,10 +1,10 @@
-NestJS setup:
-  $ npm i -g @nestjs/cli
-  $ ninho nova primeira-api
+<h4>NestJS setup:</h4> </br>
+<i>$ npm i -g @nestjs/cli</i></br>
+<i>$ nest new <name-api></i> </br></br>
 
-Prisma setup:
-  $ npm install prisma --save-dev
-  $ npx prisma
+<h4>Prisma setup:</h4> </br>
+<i>$ npm install prisma --save-dev</i></br>
+<i>$ npx prisma</i> </br></br>
 
-Inicializar o prisma:
-  $ npx prisma init
+<h4>Inicializar o prisma:</h4> </br>
+<i>$ npx prisma init</i>
